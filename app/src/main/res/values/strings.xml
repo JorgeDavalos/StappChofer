@@ -1,0 +1,422 @@
+<resources>
+    <string name="app_name">StappChofer</string>
+    <string name="prompt_email">Usuario</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Entrar</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="textoTitulo">Inicio</string>
+    <string name="textoRegistrarse">¿No tienes una cuenta?</string>
+
+    <string name="textoLinkRe">Registrarse</string>
+
+    <string name="txtRegistroTitulo">Registrarse</string>
+    <string name="txtRegistroNombre">Nombre: </string>
+    <string name="txtRegistroApellido">Apellido: </string>
+    <string name="txtRegistroUsuario">Usuario: </string>
+    <string name="txtRegistroPass">Password: </string>
+    <string name="txtRegistroPassR">Confirmar \nPassword: </string>
+    <string name="txtBtnGuardar">Guardar</string>
+
+    <string name="txtRutaCamionero">Elige Tu Ruta</string>
+    <string name="txtNumCamion">Numero de Camion: </string>
+    <string name="txtRutaCam">Ruta: </string>
+    <string name="title_activity_maps">Map</string>
+    <string-array name="longitud">
+        longitud
+<item>
+	-108.995620		</item>
+<item>
+	-108.996306		</item>
+<item>
+	-108.997234		</item>
+<item>
+	-108.998345		</item>
+<item>
+	-108.999536		</item>
+<item>
+	-109.000619		</item>
+<item>
+	-109.001134		</item>
+<item>
+	-109.001682		</item>
+<item>
+	-109.002282		</item>
+<item>
+	-109.003060		</item>
+<item>
+	-109.003607		</item>
+<item>
+	-109.004546		</item>
+<item>
+	-109.005453		</item>
+<item>
+	-109.006413		</item>
+<item>
+	-109.007030		</item>
+<item>
+	-109.007695		</item>
+<item>
+	-109.008639		</item>
+<item>
+	-109.009782		</item>
+<item>
+	-109.010817		</item>
+<item>
+	-109.011515		</item>
+<item>
+	-109.012207		</item>
+<item>
+	-109.012770		</item>
+<item>
+	-109.013462		</item>
+<item>
+	-109.014309		</item>
+<item>
+	-109.016214		</item>
+<item>
+	-109.017528		</item>
+<item>
+	-109.018440		</item>
+<item>
+	-109.019223		</item>
+<item>
+	-109.019626		</item>
+<item>
+	-109.019996		</item>
+<item>
+	-109.020709		</item>
+<item>
+	-109.021460		</item>
+<item>
+	-109.022136		</item>
+<item>
+	-109.022791		</item>
+<item>
+	-109.023643		</item>
+<item>
+	-109.024867		</item>
+<item>
+	-109.026084		</item>
+<item>
+	-109.027130		</item>
+<item>
+	-109.028235		</item>
+<item>
+	-109.027806		</item>
+<item>
+	-109.027222		</item>
+<item>
+	-109.026642		</item>
+<item>
+	-109.026031		</item>
+<item>
+	-109.025483		</item>
+<item>
+	-109.024078		</item>
+<item>
+	-109.023155		</item>
+<item>
+	-109.022404		</item>
+<item>
+	-109.021680		</item>
+<item>
+	-109.021181		</item>
+<item>
+	-109.020875		</item>
+<item>
+	-109.020248		</item>
+<item>
+	-109.019175		</item>
+<item>
+	-109.018059		</item>
+<item>
+	-109.017512		</item>
+<item>
+	-109.016815		</item>
+<item>
+	-109.016192		</item>
+<item>
+	-109.016922		</item>
+<item>
+	-109.017582		</item>
+<item>
+	-109.016911		</item>
+<item>
+	-109.016123		</item>
+<item>
+	-109.015264		</item>
+<item>
+	-109.014240		</item>
+<item>
+	-109.013263		</item>
+<item>
+	-109.012475		</item>
+<item>
+	-109.011611		</item>
+<item>
+	-109.010833		</item>
+<item>
+	-109.009814		</item>
+<item>
+	-109.008886		</item>
+<item>
+	-109.008307		</item>
+<item>
+	-109.007480		</item>
+<item>
+	-109.006107		</item>
+<item>
+	-109.004718		</item>
+<item>
+	-109.003618		</item>
+<item>
+	-109.002191		</item>
+<item>
+	-109.000957		</item>
+<item>
+	-108.999337		</item>
+<item>
+	-108.997733		</item>
+<item>
+	-108.996451		</item>
+
+
+    </string-array>
+    <string-array name="latitud">
+        <item>
+	25.788527		</item>
+<item>
+	25.787551		</item>
+<item>
+	25.787937		</item>
+<item>
+	25.788580		</item>
+<item>
+	25.789280		</item>
+<item>
+	25.789725		</item>
+<item>
+	25.788952		</item>
+<item>
+	25.788150		</item>
+<item>
+	25.787300		</item>
+<item>
+	25.786199		</item>
+<item>
+	25.785382		</item>
+<item>
+	25.784223		</item>
+<item>
+	25.783054		</item>
+<item>
+	25.781619		</item>
+<item>
+	25.780687		</item>
+<item>
+	25.779335		</item>
+<item>
+	25.779706		</item>
+<item>
+	25.780368		</item>
+<item>
+	25.780962		</item>
+<item>
+	25.781339		</item>
+<item>
+	25.780861		</item>
+<item>
+	25.780035		</item>
+<item>
+	25.779035		</item>
+<item>
+	25.779470		</item>
+<item>
+	25.780547		</item>
+<item>
+	25.781267		</item>
+<item>
+	25.781798		</item>
+<item>
+	25.782218		</item>
+<item>
+	25.781774		</item>
+<item>
+	25.781243		</item>
+<item>
+	25.780209		</item>
+<item>
+	25.779093		</item>
+<item>
+	25.778137		</item>
+<item>
+	25.777170		</item>
+<item>
+	25.775987		</item>
+<item>
+	25.776581		</item>
+<item>
+	25.777296		</item>
+<item>
+	25.777881		</item>
+<item>
+	25.778494		</item>
+<item>
+	25.779281		</item>
+<item>
+	25.780146		</item>
+<item>
+	25.780967		</item>
+<item>
+	25.781861		</item>
+<item>
+	25.782639		</item>
+<item>
+	25.782059		</item>
+<item>
+	25.781523		</item>
+<item>
+	25.781098		</item>
+<item>
+	25.780682		</item>
+<item>
+	25.781291		</item>
+<item>
+	25.781750		</item>
+<item>
+	25.782668		</item>
+<item>
+	25.782542		</item>
+<item>
+	25.781928		</item>
+<item>
+	25.781904		</item>
+<item>
+	25.782890		</item>
+<item>
+	25.783812		</item>
+<item>
+	25.784353		</item>
+<item>
+	25.784778		</item>
+<item>
+	25.785754		</item>
+<item>
+	25.786875		</item>
+<item>
+	25.788140		</item>
+<item>
+	25.788208		</item>
+<item>
+	25.787933		</item>
+<item>
+	25.789150		</item>
+<item>
+	25.790473		</item>
+<item>
+	25.791661		</item>
+<item>
+	25.793207		</item>
+<item>
+	25.794617		</item>
+<item>
+	25.795511		</item>
+<item>
+	25.796762		</item>
+<item>
+	25.796718		</item>
+<item>
+	25.795912		</item>
+<item>
+	25.795298		</item>
+<item>
+	25.794477		</item>
+<item>
+	25.793782		</item>
+<item>
+	25.792864		</item>
+<item>
+	25.791961		</item>
+<item>
+	25.791227		</item>
+
+    </string-array>
+    <string-array name="arregloIDRuta">
+        <item>01</item>
+        <item>02</item>
+        <item>03</item>
+        <item>04</item>
+        <item>05</item>
+        <item>06</item>
+        <item>07</item>
+        <item>08</item>
+        <item>09</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+        <item>32</item>
+        <item>33</item>
+    </string-array>
+    <string-array name="arregloNombreRuta">
+        <item>	12 DE OCTUBRE - ALAMOS COUNTRY	</item>
+        <item>	BACHOMO VALLE BONITO 10 DE MAYO	</item>
+        <item>	BUROCRATA	</item>
+        <item>	CAMPO 1 - ALAMOS COUNTRY	</item>
+        <item>	CAMPO 3 - OBREGON - MORELOS	</item>
+        <item>	CASTRO - BELIZARIO - CHAMIZAL	</item>
+        <item>	CASTRO - TOLEDO - CHAMIZAL	</item>
+        <item>	CEDROS - ARBOLEDAS - 21 DE MARZO ORIENTE	</item>
+        <item>	CEDROS - ARBOLEDAS - 21 DE MARZO PONIENTE	</item>
+        <item>	CEDROS - VIRREYES - JARAMILLO	</item>
+        <item>	COCOS - ZARAGOZA	</item>
+        <item>	DELICIAS - ALAMEDA	</item>
+        <item>	FERRUSQUILLA - ZARAGOZA	</item>
+        <item>	INFONAVIT - SERDAN	</item>
+        <item>	INFONAVIT - ZARAGOZA - SAN FERNANDO	</item>
+        <item>	INFONAVIT MOCHICAHUI - JUAREZ	</item>
+        <item>	JIQUILPAN 2 - MORELOS	</item>
+        <item>	JIQUILPAN 2 YARDA	</item>
+        <item>	LAURELES - PRADO BONITO - AMERICA - OLIVOS	</item>
+        <item>	LIBERTAD - INDEPENDENCIA	</item>
+        <item>	LIBERTAD - ZARAGOZA	</item>
+        <item>	MALVINAS - BELIZARIO - NARANJOS	</item>
+        <item>	MALVINAS - ZARAGOZA - NARANJOS	</item>
+        <item>	MEMORIAS - ZARAGOZA	</item>
+        <item>	MEXICO - CENTENARIO - ESMERALDA - C3 - IMSS - HG	</item>
+        <item>	MEXICO - INDEPENDENCIA - C3 - IMSS	</item>
+        <item>	MORELOS - CARDENAS	</item>
+        <item>	NUEVO HORIZONTE	</item>
+        <item>	PRADERAS DE VILLA	</item>
+        <item>	ROMANILLO - MAR DE CORTEX - MAQUILADORA	</item>
+        <item>	ROMANILLO - MAR DE CORTEZ - H	</item>
+        <item>	TABACHINES - INDEPENDENCIA	</item>
+        <item>	TABACHINES - ZARAGOZA	</item>
+    </string-array>
+
+</resources>
